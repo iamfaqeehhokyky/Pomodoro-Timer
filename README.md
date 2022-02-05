@@ -9,3 +9,4 @@ After building this software, I am able to break my workday into 25-minute chunk
 ![image](https://user-images.githubusercontent.com/73473767/152626082-18d8fe57-47aa-46dc-9e60-1167c1ec59e3.png)
 
 # BREAK TIME
+![image](https://user-images.githubusercontent.com/73473767/152626369-7f260ac0-7392-45bd-af9d-0a0c2fafe574.png)
